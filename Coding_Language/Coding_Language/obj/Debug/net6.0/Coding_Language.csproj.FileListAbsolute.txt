@@ -1,0 +1,44 @@
+D:\OneDrive - Hills Road Sixth Form College\EPQ\Code\Coding_Language\Coding_Language\bin\Debug\net6.0\Coding_Language.exe
+D:\OneDrive - Hills Road Sixth Form College\EPQ\Code\Coding_Language\Coding_Language\bin\Debug\net6.0\Coding_Language.deps.json
+D:\OneDrive - Hills Road Sixth Form College\EPQ\Code\Coding_Language\Coding_Language\bin\Debug\net6.0\Coding_Language.runtimeconfig.json
+D:\OneDrive - Hills Road Sixth Form College\EPQ\Code\Coding_Language\Coding_Language\bin\Debug\net6.0\Coding_Language.dll
+D:\OneDrive - Hills Road Sixth Form College\EPQ\Code\Coding_Language\Coding_Language\bin\Debug\net6.0\Coding_Language.pdb
+D:\OneDrive - Hills Road Sixth Form College\EPQ\Code\Coding_Language\Coding_Language\obj\Debug\net6.0\Coding_Language.csproj.AssemblyReference.cache
+D:\OneDrive - Hills Road Sixth Form College\EPQ\Code\Coding_Language\Coding_Language\obj\Debug\net6.0\Coding_Language.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Hills Road Sixth Form College\EPQ\Code\Coding_Language\Coding_Language\obj\Debug\net6.0\Coding_Language.AssemblyInfoInputs.cache
+D:\OneDrive - Hills Road Sixth Form College\EPQ\Code\Coding_Language\Coding_Language\obj\Debug\net6.0\Coding_Language.AssemblyInfo.cs
+D:\OneDrive - Hills Road Sixth Form College\EPQ\Code\Coding_Language\Coding_Language\obj\Debug\net6.0\Coding_Language.csproj.CoreCompileInputs.cache
+D:\OneDrive - Hills Road Sixth Form College\EPQ\Code\Coding_Language\Coding_Language\obj\Debug\net6.0\Coding_Language.dll
+D:\OneDrive - Hills Road Sixth Form College\EPQ\Code\Coding_Language\Coding_Language\obj\Debug\net6.0\refint\Coding_Language.dll
+D:\OneDrive - Hills Road Sixth Form College\EPQ\Code\Coding_Language\Coding_Language\obj\Debug\net6.0\Coding_Language.pdb
+D:\OneDrive - Hills Road Sixth Form College\EPQ\Code\Coding_Language\Coding_Language\obj\Debug\net6.0\Coding_Language.genruntimeconfig.cache
+D:\OneDrive - Hills Road Sixth Form College\EPQ\Code\Coding_Language\Coding_Language\obj\Debug\net6.0\ref\Coding_Language.dll
+C:\Users\sg149348\OneDrive - Hills Road Sixth Form College\EPQ\Code\Coding_Language\Coding_Language\bin\Debug\net6.0\Coding_Language.exe
+C:\Users\sg149348\OneDrive - Hills Road Sixth Form College\EPQ\Code\Coding_Language\Coding_Language\bin\Debug\net6.0\Coding_Language.deps.json
+C:\Users\sg149348\OneDrive - Hills Road Sixth Form College\EPQ\Code\Coding_Language\Coding_Language\bin\Debug\net6.0\Coding_Language.runtimeconfig.json
+C:\Users\sg149348\OneDrive - Hills Road Sixth Form College\EPQ\Code\Coding_Language\Coding_Language\bin\Debug\net6.0\Coding_Language.dll
+C:\Users\sg149348\OneDrive - Hills Road Sixth Form College\EPQ\Code\Coding_Language\Coding_Language\bin\Debug\net6.0\Coding_Language.pdb
+C:\Users\sg149348\OneDrive - Hills Road Sixth Form College\EPQ\Code\Coding_Language\Coding_Language\obj\Debug\net6.0\Coding_Language.csproj.AssemblyReference.cache
+C:\Users\sg149348\OneDrive - Hills Road Sixth Form College\EPQ\Code\Coding_Language\Coding_Language\obj\Debug\net6.0\Coding_Language.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sg149348\OneDrive - Hills Road Sixth Form College\EPQ\Code\Coding_Language\Coding_Language\obj\Debug\net6.0\Coding_Language.AssemblyInfoInputs.cache
+C:\Users\sg149348\OneDrive - Hills Road Sixth Form College\EPQ\Code\Coding_Language\Coding_Language\obj\Debug\net6.0\Coding_Language.AssemblyInfo.cs
+C:\Users\sg149348\OneDrive - Hills Road Sixth Form College\EPQ\Code\Coding_Language\Coding_Language\obj\Debug\net6.0\Coding_Language.csproj.CoreCompileInputs.cache
+C:\Users\sg149348\OneDrive - Hills Road Sixth Form College\EPQ\Code\Coding_Language\Coding_Language\obj\Debug\net6.0\Coding_Language.dll
+C:\Users\sg149348\OneDrive - Hills Road Sixth Form College\EPQ\Code\Coding_Language\Coding_Language\obj\Debug\net6.0\refint\Coding_Language.dll
+C:\Users\sg149348\OneDrive - Hills Road Sixth Form College\EPQ\Code\Coding_Language\Coding_Language\obj\Debug\net6.0\Coding_Language.pdb
+C:\Users\sg149348\OneDrive - Hills Road Sixth Form College\EPQ\Code\Coding_Language\Coding_Language\obj\Debug\net6.0\Coding_Language.genruntimeconfig.cache
+C:\Users\sg149348\OneDrive - Hills Road Sixth Form College\EPQ\Code\Coding_Language\Coding_Language\obj\Debug\net6.0\ref\Coding_Language.dll
+C:\Users\'-'\OneDrive\EPQ\Code\Coding_Language\Coding_Language\bin\Debug\net6.0\Coding_Language.exe
+C:\Users\'-'\OneDrive\EPQ\Code\Coding_Language\Coding_Language\bin\Debug\net6.0\Coding_Language.deps.json
+C:\Users\'-'\OneDrive\EPQ\Code\Coding_Language\Coding_Language\bin\Debug\net6.0\Coding_Language.runtimeconfig.json
+C:\Users\'-'\OneDrive\EPQ\Code\Coding_Language\Coding_Language\bin\Debug\net6.0\Coding_Language.dll
+C:\Users\'-'\OneDrive\EPQ\Code\Coding_Language\Coding_Language\bin\Debug\net6.0\Coding_Language.pdb
+C:\Users\'-'\OneDrive\EPQ\Code\Coding_Language\Coding_Language\obj\Debug\net6.0\Coding_Language.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\'-'\OneDrive\EPQ\Code\Coding_Language\Coding_Language\obj\Debug\net6.0\Coding_Language.AssemblyInfoInputs.cache
+C:\Users\'-'\OneDrive\EPQ\Code\Coding_Language\Coding_Language\obj\Debug\net6.0\Coding_Language.AssemblyInfo.cs
+C:\Users\'-'\OneDrive\EPQ\Code\Coding_Language\Coding_Language\obj\Debug\net6.0\Coding_Language.csproj.CoreCompileInputs.cache
+C:\Users\'-'\OneDrive\EPQ\Code\Coding_Language\Coding_Language\obj\Debug\net6.0\Coding_Language.dll
+C:\Users\'-'\OneDrive\EPQ\Code\Coding_Language\Coding_Language\obj\Debug\net6.0\refint\Coding_Language.dll
+C:\Users\'-'\OneDrive\EPQ\Code\Coding_Language\Coding_Language\obj\Debug\net6.0\Coding_Language.pdb
+C:\Users\'-'\OneDrive\EPQ\Code\Coding_Language\Coding_Language\obj\Debug\net6.0\Coding_Language.genruntimeconfig.cache
+C:\Users\'-'\OneDrive\EPQ\Code\Coding_Language\Coding_Language\obj\Debug\net6.0\ref\Coding_Language.dll
