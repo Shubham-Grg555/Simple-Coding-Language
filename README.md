@@ -4,6 +4,7 @@
 
 Simple-Coding-Language is a new programming language designed for beginners around the coding skill level of a GCSE computer science
 student, where you would be able to complete any of the GCSE coding questions using the Simple-Coding-Language.
+<<<<<<< HEAD
 
 It includes features such as:
 
@@ -11,10 +12,19 @@ It includes features such as:
 Designed to be intuitive and easy to learn for new developers
 
 **Multiple forms of syntax**
+=======
+It includes features such as:
+
+### **High-level abstraction**
+Designed to be intuitive and easy to learn for new developers
+
+### **Multiple forms of syntax**
+>>>>>>> 3e5cc00b088164de804782189c4cf1d5bc1c8103
 Two forms of symbol syntax, where one is an intuitive syntax for new developers, but you could also the common syntax in other
 languages that are less obvious e.g you can use the bit wise logical and by just writing the word and, or you can use the &&
 symbols to get the same effect.
 
+<<<<<<< HEAD
 **Interpreter translation and error reporting**
 For an easier debugging experience that has a comprehensive error message that shows the developer where and what the error is.
 
@@ -23,6 +33,16 @@ Ability to see the syntax tree when executing lines of code, to see how the expr
 Simple-Coding-Language
 
 **Core capabilities of the programming language
+=======
+### **Interpreter translation and error reporting**:
+For an easier debugging experience that has a comprehensive error message that shows the developer where and what the error is.
+
+### **Viewable syntax tree**
+Ability to see the syntax tree when executing lines of code, to see how the expressions are handled and linked together by the
+Simple-Coding-Language
+
+### **Core capabilities of the programming language
+>>>>>>> 3e5cc00b088164de804782189c4cf1d5bc1c8103
 Goal of having all necessary functionalities to be able to the coding aspect of any GCSE computer science course
 - Arithmetic operations (DONE)
 - Logical operations (DONE)
@@ -48,6 +68,10 @@ Alternatively, you can clone this repository:
 ```bash
 git clone ...
 cd Simple-Coding-Language
+<<<<<<< HEAD
+=======
+```
+>>>>>>> 3e5cc00b088164de804782189c4cf1d5bc1c8103
 
 ## License
 
@@ -73,8 +97,12 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
+<<<<<<< HEAD
 This code uses projects from: https://github.com/terrajobst/minsk/tree/master
 (Used code up to episode 7 and not anything afterwards)
+=======
+This code uses projects from (Up to episode 7): https://github.com/terrajobst/minsk/tree/master
+>>>>>>> 3e5cc00b088164de804782189c4cf1d5bc1c8103
 
 It is also licensed to be used:
 The MIT License (MIT)
@@ -97,4 +125,8 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+<<<<<<< HEAD
 THE SOFTWARE.
+=======
+THE SOFTWARE.
+>>>>>>> 3e5cc00b088164de804782189c4cf1d5bc1c8103
