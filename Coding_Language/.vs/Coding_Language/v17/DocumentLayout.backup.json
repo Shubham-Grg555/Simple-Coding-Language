@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC5A23CB-36F8-439E-97FC-B166534C9B42}|Coding_Language\\Coding_Language.csproj|c:\\users\\\u0027-\u0027\\onedrive\\epq\\code\\coding_language\\coding_language\\token handling and output\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC5A23CB-36F8-439E-97FC-B166534C9B42}|Coding_Language\\Coding_Language.csproj|solutionrelative:coding_language\\token handling and output\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC5A23CB-36F8-439E-97FC-B166534C9B42}|Coding_Language\\Coding_Language.csproj|c:\\users\\\u0027-\u0027\\onedrive\\epq\\code\\coding_language\\coding_language\\token handling and output\\lexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC5A23CB-36F8-439E-97FC-B166534C9B42}|Coding_Language\\Coding_Language.csproj|solutionrelative:coding_language\\token handling and output\\lexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5A23CB-36F8-439E-97FC-B166534C9B42}|Coding_Language\\Coding_Language.csproj|c:\\users\\\u0027-\u0027\\onedrive\\epq\\code\\coding_language\\coding_language\\text\\sourcetext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC5A23CB-36F8-439E-97FC-B166534C9B42}|Coding_Language\\Coding_Language.csproj|solutionrelative:coding_language\\text\\sourcetext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5A23CB-36F8-439E-97FC-B166534C9B42}|Coding_Language\\Coding_Language.csproj|c:\\users\\\u0027-\u0027\\onedrive\\epq\\code\\coding_language\\coding_language\\text\\textspan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC5A23CB-36F8-439E-97FC-B166534C9B42}|Coding_Language\\Coding_Language.csproj|solutionrelative:coding_language\\text\\textspan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5A23CB-36F8-439E-97FC-B166534C9B42}|Coding_Language\\Coding_Language.csproj|c:\\users\\\u0027-\u0027\\onedrive\\epq\\code\\coding_language\\coding_language\\text\\textline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC5A23CB-36F8-439E-97FC-B166534C9B42}|Coding_Language\\Coding_Language.csproj|solutionrelative:coding_language\\text\\textline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10471DA1-B935-4467-BE3A-04434280F85F}|Test\\Test.csproj|c:\\users\\\u0027-\u0027\\onedrive\\epq\\code\\coding_language\\test\\lexertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10471DA1-B935-4467-BE3A-04434280F85F}|Test\\Test.csproj|solutionrelative:test\\lexertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10471DA1-B935-4467-BE3A-04434280F85F}|Test\\Tests.csproj|c:\\users\\\u0027-\u0027\\onedrive\\epq\\code\\coding_language\\test\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{10471DA1-B935-4467-BE3A-04434280F85F}|Test\\Tests.csproj|solutionrelative:test\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC5A23CB-36F8-439E-97FC-B166534C9B42}|Coding_Language\\Coding_Language.csproj|c:\\users\\\u0027-\u0027\\onedrive\\epq\\code\\coding_language\\coding_language\\token handling and output\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC5A23CB-36F8-439E-97FC-B166534C9B42}|Coding_Language\\Coding_Language.csproj|solutionrelative:coding_language\\token handling and output\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC5A23CB-36F8-439E-97FC-B166534C9B42}|Coding_Language\\Coding_Language.csproj|c:\\users\\\u0027-\u0027\\onedrive\\epq\\code\\coding_language\\coding_language\\token handling and output\\lexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC5A23CB-36F8-439E-97FC-B166534C9B42}|Coding_Language\\Coding_Language.csproj|solutionrelative:coding_language\\token handling and output\\lexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC5A23CB-36F8-439E-97FC-B166534C9B42}|Coding_Language\\Coding_Language.csproj|c:\\users\\\u0027-\u0027\\onedrive\\epq\\code\\coding_language\\coding_language\\token handling and output\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC5A23CB-36F8-439E-97FC-B166534C9B42}|Coding_Language\\Coding_Language.csproj|solutionrelative:coding_language\\token handling and output\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10471DA1-B935-4467-BE3A-04434280F85F}|Test\\Test.csproj|c:\\users\\\u0027-\u0027\\onedrive\\epq\\code\\coding_language\\test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{10471DA1-B935-4467-BE3A-04434280F85F}|Test\\Test.csproj|solutionrelative:test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{FC5A23CB-36F8-439E-97FC-B166534C9B42}|Coding_Language\\Coding_Language.csproj|c:\\users\\\u0027-\u0027\\onedrive\\epq\\code\\coding_language\\coding_language\\token handling and output\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC5A23CB-36F8-439E-97FC-B166534C9B42}|Coding_Language\\Coding_Language.csproj|solutionrelative:coding_language\\token handling and output\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10471DA1-B935-4467-BE3A-04434280F85F}|Test\\Test.csproj|c:\\users\\\u0027-\u0027\\onedrive\\epq\\code\\coding_language\\test\\annotatedtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10471DA1-B935-4467-BE3A-04434280F85F}|Test\\Test.csproj|solutionrelative:test\\annotatedtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:1:0:{FC5A23CB-36F8-439E-97FC-B166534C9B42}|Coding_Language\\Coding_Language.csproj|c:\\users\\\u0027-\u0027\\onedrive\\epq\\code\\coding_language\\coding_language\\coding_language.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -43,18 +67,6 @@
       "RelativeMoniker": "D:0:0:{10471DA1-B935-4467-BE3A-04434280F85F}|Test\\Test.csproj|solutionrelative:test\\assertingenuemrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10471DA1-B935-4467-BE3A-04434280F85F}|Test\\Test.csproj|c:\\users\\\u0027-\u0027\\onedrive\\epq\\code\\coding_language\\test\\annotatedtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10471DA1-B935-4467-BE3A-04434280F85F}|Test\\Test.csproj|solutionrelative:test\\annotatedtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC5A23CB-36F8-439E-97FC-B166534C9B42}|Coding_Language\\Coding_Language.csproj|c:\\users\\\u0027-\u0027\\onedrive\\epq\\code\\coding_language\\coding_language\\token handling and output\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC5A23CB-36F8-439E-97FC-B166534C9B42}|Coding_Language\\Coding_Language.csproj|solutionrelative:coding_language\\token handling and output\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC5A23CB-36F8-439E-97FC-B166534C9B42}|Coding_Language\\Coding_Language.csproj|c:\\users\\\u0027-\u0027\\onedrive\\epq\\code\\coding_language\\coding_language\\text\\textspan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC5A23CB-36F8-439E-97FC-B166534C9B42}|Coding_Language\\Coding_Language.csproj|solutionrelative:coding_language\\text\\textspan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FC5A23CB-36F8-439E-97FC-B166534C9B42}|Coding_Language\\Coding_Language.csproj|c:\\users\\\u0027-\u0027\\onedrive\\epq\\code\\coding_language\\coding_language\\error and evaluations\\diagnosticbag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC5A23CB-36F8-439E-97FC-B166534C9B42}|Coding_Language\\Coding_Language.csproj|solutionrelative:coding_language\\error and evaluations\\diagnosticbag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -79,10 +91,6 @@
       "RelativeMoniker": "D:0:0:{FC5A23CB-36F8-439E-97FC-B166534C9B42}|Coding_Language\\Coding_Language.csproj|solutionrelative:coding_language\\binding\\binder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC5A23CB-36F8-439E-97FC-B166534C9B42}|Coding_Language\\Coding_Language.csproj|c:\\users\\\u0027-\u0027\\onedrive\\epq\\code\\coding_language\\coding_language\\text\\sourcetext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC5A23CB-36F8-439E-97FC-B166534C9B42}|Coding_Language\\Coding_Language.csproj|solutionrelative:coding_language\\text\\sourcetext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FC5A23CB-36F8-439E-97FC-B166534C9B42}|Coding_Language\\Coding_Language.csproj|c:\\users\\\u0027-\u0027\\onedrive\\epq\\code\\coding_language\\coding_language\\syntax\\blockstatementsyntax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC5A23CB-36F8-439E-97FC-B166534C9B42}|Coding_Language\\Coding_Language.csproj|solutionrelative:coding_language\\syntax\\blockstatementsyntax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -101,10 +109,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FC5A23CB-36F8-439E-97FC-B166534C9B42}|Coding_Language\\Coding_Language.csproj|c:\\users\\\u0027-\u0027\\onedrive\\epq\\code\\coding_language\\coding_language\\binding\\boundbinaryexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC5A23CB-36F8-439E-97FC-B166534C9B42}|Coding_Language\\Coding_Language.csproj|solutionrelative:coding_language\\binding\\boundbinaryexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC5A23CB-36F8-439E-97FC-B166534C9B42}|Coding_Language\\Coding_Language.csproj|c:\\users\\\u0027-\u0027\\onedrive\\epq\\code\\coding_language\\coding_language\\text\\textline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC5A23CB-36F8-439E-97FC-B166534C9B42}|Coding_Language\\Coding_Language.csproj|solutionrelative:coding_language\\text\\textline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC5A23CB-36F8-439E-97FC-B166534C9B42}|Coding_Language\\Coding_Language.csproj|c:\\users\\\u0027-\u0027\\onedrive\\epq\\code\\coding_language\\coding_language\\syntax\\syntaxtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -187,10 +191,6 @@
       "RelativeMoniker": "D:0:0:{10471DA1-B935-4467-BE3A-04434280F85F}|Test\\Test.csproj|solutionrelative:test\\sourcetexttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10471DA1-B935-4467-BE3A-04434280F85F}|Test\\Test.csproj|c:\\users\\\u0027-\u0027\\onedrive\\epq\\code\\coding_language\\test\\lexertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10471DA1-B935-4467-BE3A-04434280F85F}|Test\\Test.csproj|solutionrelative:test\\lexertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FC5A23CB-36F8-439E-97FC-B166534C9B42}|Coding_Language\\Coding_Language.csproj|c:\\users\\\u0027-\u0027\\onedrive\\epq\\code\\coding_language\\coding_language\\syntax\\whilestatementsyntax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC5A23CB-36F8-439E-97FC-B166534C9B42}|Coding_Language\\Coding_Language.csproj|solutionrelative:coding_language\\syntax\\whilestatementsyntax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -261,76 +261,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Lexer.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Token handling and output\\Lexer.cs",
-              "RelativeDocumentMoniker": "Coding_Language\\Token handling and output\\Lexer.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Token handling and output\\Lexer.cs",
-              "RelativeToolTip": "Coding_Language\\Token handling and output\\Lexer.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAqwEkAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Token handling and output\\Program.cs",
-              "RelativeDocumentMoniker": "Coding_Language\\Token handling and output\\Program.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Token handling and output\\Program.cs",
-              "RelativeToolTip": "Coding_Language\\Token handling and output\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwBwAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.632Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AnnotatedText.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Test\\AnnotatedText.cs",
-              "RelativeDocumentMoniker": "Test\\AnnotatedText.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Test\\AnnotatedText.cs",
-              "RelativeToolTip": "Test\\AnnotatedText.cs",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAmwBQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AssertingEnuemrator.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Test\\AssertingEnuemrator.cs",
-              "RelativeDocumentMoniker": "Test\\AssertingEnuemrator.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Test\\AssertingEnuemrator.cs",
-              "RelativeToolTip": "Test\\AssertingEnuemrator.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBUAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EvaluatorTests.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Test\\EvaluatorTests.cs",
-              "RelativeDocumentMoniker": "Test\\EvaluatorTests.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Test\\EvaluatorTests.cs",
-              "RelativeToolTip": "Test\\EvaluatorTests.cs",
-              "ViewState": "AgIAAMYAAAAAAAAAAAAkwAkBAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "Usings.cs",
               "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Test\\Usings.cs",
               "RelativeDocumentMoniker": "Test\\Usings.cs",
@@ -343,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "SyntaxFactsTests.cs",
               "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Test\\SyntaxFactsTests.cs",
               "RelativeDocumentMoniker": "Test\\SyntaxFactsTests.cs",
@@ -356,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "ParserTests.cs",
               "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Test\\ParserTests.cs",
               "RelativeDocumentMoniker": "Test\\ParserTests.cs",
@@ -369,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Coding_Language.csproj",
               "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Coding_Language.csproj",
               "RelativeDocumentMoniker": "Coding_Language\\Coding_Language.csproj",
@@ -382,12 +317,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Test.csproj",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Test\\Test.csproj",
-              "RelativeDocumentMoniker": "Test\\Test.csproj",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Test\\Test.csproj",
-              "RelativeToolTip": "Test\\Test.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Test\\Tests.csproj",
+              "RelativeDocumentMoniker": "Test\\Tests.csproj",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Test\\Tests.csproj",
+              "RelativeToolTip": "Test\\Tests.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-03-05T21:49:32.799Z",
@@ -395,426 +330,549 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Parser.cs",
               "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Token handling and output\\Parser.cs",
               "RelativeDocumentMoniker": "Coding_Language\\Token handling and output\\Parser.cs",
               "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Token handling and output\\Parser.cs",
               "RelativeToolTip": "Coding_Language\\Token handling and output\\Parser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAMQBAAAAAAAAAAAmwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T21:49:32.705Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "SourceText.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Text\\SourceText.cs",
-              "RelativeDocumentMoniker": "Coding_Language\\Text\\SourceText.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Text\\SourceText.cs",
-              "RelativeToolTip": "Coding_Language\\Text\\SourceText.cs",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAmwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.635Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Token.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Token handling and output\\Token.cs",
-              "RelativeDocumentMoniker": "Coding_Language\\Token handling and output\\Token.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Token handling and output\\Token.cs",
-              "RelativeToolTip": "Coding_Language\\Token handling and output\\Token.cs",
-              "ViewState": "AQIAAFAAAAAAAAAAAAAAAA4AAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.631Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "TextSpan.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Text\\TextSpan.cs",
-              "RelativeDocumentMoniker": "Coding_Language\\Text\\TextSpan.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Text\\TextSpan.cs",
-              "RelativeToolTip": "Coding_Language\\Text\\TextSpan.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.628Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "BoundVariableDeclaration.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundVariableDeclaration.cs",
-              "RelativeDocumentMoniker": "Coding_Language\\Binding\\BoundVariableDeclaration.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundVariableDeclaration.cs",
-              "RelativeToolTip": "Coding_Language\\Binding\\BoundVariableDeclaration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.625Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "BoundVariableExpression.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundVariableExpression.cs",
-              "RelativeDocumentMoniker": "Coding_Language\\Binding\\BoundVariableExpression.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundVariableExpression.cs",
-              "RelativeToolTip": "Coding_Language\\Binding\\BoundVariableExpression.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.621Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "BoundUnaryExpression.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundUnaryExpression.cs",
-              "RelativeDocumentMoniker": "Coding_Language\\Binding\\BoundUnaryExpression.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundUnaryExpression.cs",
-              "RelativeToolTip": "Coding_Language\\Binding\\BoundUnaryExpression.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.619Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "BoundUnaryOperator.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundUnaryOperator.cs",
-              "RelativeDocumentMoniker": "Coding_Language\\Binding\\BoundUnaryOperator.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundUnaryOperator.cs",
-              "RelativeToolTip": "Coding_Language\\Binding\\BoundUnaryOperator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.616Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "DiagnosticBag.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Error and evaluations\\DiagnosticBag.cs",
-              "RelativeDocumentMoniker": "Coding_Language\\Error and evaluations\\DiagnosticBag.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Error and evaluations\\DiagnosticBag.cs",
-              "RelativeToolTip": "Coding_Language\\Error and evaluations\\DiagnosticBag.cs",
-              "ViewState": "AQIAAGsAAAAAAAAAAAAlwCIAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.614Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Binder.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\Binder.cs",
-              "RelativeDocumentMoniker": "Coding_Language\\Binding\\Binder.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\Binder.cs",
-              "RelativeToolTip": "Coding_Language\\Binding\\Binder.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAuwAIAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.494Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "BlockStatementSyntax.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\BlockStatementSyntax.cs",
-              "RelativeDocumentMoniker": "Coding_Language\\Syntax\\BlockStatementSyntax.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\BlockStatementSyntax.cs",
-              "RelativeToolTip": "Coding_Language\\Syntax\\BlockStatementSyntax.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.637Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "BinaryExpressionSyntax.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\BinaryExpressionSyntax.cs",
-              "RelativeDocumentMoniker": "Coding_Language\\Syntax\\BinaryExpressionSyntax.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\BinaryExpressionSyntax.cs",
-              "RelativeToolTip": "Coding_Language\\Syntax\\BinaryExpressionSyntax.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.639Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "AssignmentExpressionSyntax.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\AssignmentExpressionSyntax.cs",
-              "RelativeDocumentMoniker": "Coding_Language\\Syntax\\AssignmentExpressionSyntax.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\AssignmentExpressionSyntax.cs",
-              "RelativeToolTip": "Coding_Language\\Syntax\\AssignmentExpressionSyntax.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.642Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "AverageMethodSyntax.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\AverageMethodSyntax.cs",
-              "RelativeDocumentMoniker": "Coding_Language\\Syntax\\AverageMethodSyntax.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\AverageMethodSyntax.cs",
-              "RelativeToolTip": "Coding_Language\\Syntax\\AverageMethodSyntax.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.647Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "BoundBinaryExpression.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundBinaryExpression.cs",
-              "RelativeDocumentMoniker": "Coding_Language\\Binding\\BoundBinaryExpression.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundBinaryExpression.cs",
-              "RelativeToolTip": "Coding_Language\\Binding\\BoundBinaryExpression.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.649Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "TextLine.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Text\\TextLine.cs",
-              "RelativeDocumentMoniker": "Coding_Language\\Text\\TextLine.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Text\\TextLine.cs",
-              "RelativeToolTip": "Coding_Language\\Text\\TextLine.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.651Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "SyntaxTree.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\SyntaxTree.cs",
-              "RelativeDocumentMoniker": "Coding_Language\\Syntax\\SyntaxTree.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\SyntaxTree.cs",
-              "RelativeToolTip": "Coding_Language\\Syntax\\SyntaxTree.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.653Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "SyntaxNode.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\SyntaxNode.cs",
-              "RelativeDocumentMoniker": "Coding_Language\\Syntax\\SyntaxNode.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\SyntaxNode.cs",
-              "RelativeToolTip": "Coding_Language\\Syntax\\SyntaxNode.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.655Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "EvaluationResult.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\EvaluationResult.cs",
-              "RelativeDocumentMoniker": "Coding_Language\\Syntax\\EvaluationResult.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\EvaluationResult.cs",
-              "RelativeToolTip": "Coding_Language\\Syntax\\EvaluationResult.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.658Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "ElseClauseSyntax.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\ElseClauseSyntax.cs",
-              "RelativeDocumentMoniker": "Coding_Language\\Syntax\\ElseClauseSyntax.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\ElseClauseSyntax.cs",
-              "RelativeToolTip": "Coding_Language\\Syntax\\ElseClauseSyntax.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.662Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "CompilationUnitSyntax.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\CompilationUnitSyntax.cs",
-              "RelativeDocumentMoniker": "Coding_Language\\Syntax\\CompilationUnitSyntax.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\CompilationUnitSyntax.cs",
-              "RelativeToolTip": "Coding_Language\\Syntax\\CompilationUnitSyntax.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.665Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Evaluator.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Error and evaluations\\Evaluator.cs",
-              "RelativeDocumentMoniker": "Coding_Language\\Error and evaluations\\Evaluator.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Error and evaluations\\Evaluator.cs",
-              "RelativeToolTip": "Coding_Language\\Error and evaluations\\Evaluator.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.667Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "BoundLiteralExpression.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundLiteralExpression.cs",
-              "RelativeDocumentMoniker": "Coding_Language\\Binding\\BoundLiteralExpression.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundLiteralExpression.cs",
-              "RelativeToolTip": "Coding_Language\\Binding\\BoundLiteralExpression.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.67Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "BoundForStatement.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundForStatement.cs",
-              "RelativeDocumentMoniker": "Coding_Language\\Binding\\BoundForStatement.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundForStatement.cs",
-              "RelativeToolTip": "Coding_Language\\Binding\\BoundForStatement.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.673Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "BoundFloatExpression.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundFloatExpression.cs",
-              "RelativeDocumentMoniker": "Coding_Language\\Binding\\BoundFloatExpression.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundFloatExpression.cs",
-              "RelativeToolTip": "Coding_Language\\Binding\\BoundFloatExpression.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.676Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "BoundBlockStatement.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundBlockStatement.cs",
-              "RelativeDocumentMoniker": "Coding_Language\\Binding\\BoundBlockStatement.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundBlockStatement.cs",
-              "RelativeToolTip": "Coding_Language\\Binding\\BoundBlockStatement.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.679Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "BoundBinaryOperator.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundBinaryOperator.cs",
-              "RelativeDocumentMoniker": "Coding_Language\\Binding\\BoundBinaryOperator.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundBinaryOperator.cs",
-              "RelativeToolTip": "Coding_Language\\Binding\\BoundBinaryOperator.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.682Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "BoundExpression.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundExpression.cs",
-              "RelativeDocumentMoniker": "Coding_Language\\Binding\\BoundExpression.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundExpression.cs",
-              "RelativeToolTip": "Coding_Language\\Binding\\BoundExpression.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.685Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "BoundGlobalScope.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundGlobalScope.cs",
-              "RelativeDocumentMoniker": "Coding_Language\\Binding\\BoundGlobalScope.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundGlobalScope.cs",
-              "RelativeToolTip": "Coding_Language\\Binding\\BoundGlobalScope.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.688Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "BoundNode.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundNode.cs",
-              "RelativeDocumentMoniker": "Coding_Language\\Binding\\BoundNode.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundNode.cs",
-              "RelativeToolTip": "Coding_Language\\Binding\\BoundNode.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.691Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "BoundStatement.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundStatement.cs",
-              "RelativeDocumentMoniker": "Coding_Language\\Binding\\BoundStatement.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundStatement.cs",
-              "RelativeToolTip": "Coding_Language\\Binding\\BoundStatement.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.694Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "VariableDeclarationSyntax.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\VariableDeclarationSyntax.cs",
-              "RelativeDocumentMoniker": "Coding_Language\\Syntax\\VariableDeclarationSyntax.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\VariableDeclarationSyntax.cs",
-              "RelativeToolTip": "Coding_Language\\Syntax\\VariableDeclarationSyntax.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.697Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "NameExpressionSyntax.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\NameExpressionSyntax.cs",
-              "RelativeDocumentMoniker": "Coding_Language\\Binding\\NameExpressionSyntax.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\NameExpressionSyntax.cs",
-              "RelativeToolTip": "Coding_Language\\Binding\\NameExpressionSyntax.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.7Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "BoundScope.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundScope.cs",
-              "RelativeDocumentMoniker": "Coding_Language\\Binding\\BoundScope.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundScope.cs",
-              "RelativeToolTip": "Coding_Language\\Binding\\BoundScope.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.702Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "UnaryExpressionSyntax.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\UnaryExpressionSyntax.cs",
-              "RelativeDocumentMoniker": "Coding_Language\\Syntax\\UnaryExpressionSyntax.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\UnaryExpressionSyntax.cs",
-              "RelativeToolTip": "Coding_Language\\Syntax\\UnaryExpressionSyntax.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.707Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "SourceTextTests.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Test\\SourceTextTests.cs",
-              "RelativeDocumentMoniker": "Test\\SourceTextTests.cs",
-              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Test\\SourceTextTests.cs",
-              "RelativeToolTip": "Test\\SourceTextTests.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.721Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 4,
               "Title": "LexerTests.cs",
               "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Test\\LexerTests.cs",
               "RelativeDocumentMoniker": "Test\\LexerTests.cs",
               "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Test\\LexerTests.cs",
               "RelativeToolTip": "Test\\LexerTests.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAkwGIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.726Z"
+              "WhenOpened": "2025-03-05T21:49:32.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lexer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Token handling and output\\Lexer.cs",
+              "RelativeDocumentMoniker": "Coding_Language\\Token handling and output\\Lexer.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Token handling and output\\Lexer.cs",
+              "RelativeToolTip": "Coding_Language\\Token handling and output\\Lexer.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAcwIoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Token handling and output\\Token.cs",
+              "RelativeDocumentMoniker": "Coding_Language\\Token handling and output\\Token.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Token handling and output\\Token.cs",
+              "RelativeToolTip": "Coding_Language\\Token handling and output\\Token.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAgwA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SourceText.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Text\\SourceText.cs",
+              "RelativeDocumentMoniker": "Coding_Language\\Text\\SourceText.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Text\\SourceText.cs",
+              "RelativeToolTip": "Coding_Language\\Text\\SourceText.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwIkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextLine.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Text\\TextLine.cs",
+              "RelativeDocumentMoniker": "Coding_Language\\Text\\TextLine.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Text\\TextLine.cs",
+              "RelativeToolTip": "Coding_Language\\Text\\TextLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TextSpan.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Text\\TextSpan.cs",
+              "RelativeDocumentMoniker": "Coding_Language\\Text\\TextSpan.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Text\\TextSpan.cs",
+              "RelativeToolTip": "Coding_Language\\Text\\TextSpan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EvaluatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Test\\EvaluatorTests.cs",
+              "RelativeDocumentMoniker": "Test\\EvaluatorTests.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Test\\EvaluatorTests.cs",
+              "RelativeToolTip": "Test\\EvaluatorTests.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAkwAkBAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AnnotatedText.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Test\\AnnotatedText.cs",
+              "RelativeDocumentMoniker": "Test\\AnnotatedText.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Test\\AnnotatedText.cs",
+              "RelativeToolTip": "Test\\AnnotatedText.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwBQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Token handling and output\\Program.cs",
+              "RelativeDocumentMoniker": "Coding_Language\\Token handling and output\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Token handling and output\\Program.cs",
+              "RelativeToolTip": "Coding_Language\\Token handling and output\\Program.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAgwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AssertingEnuemrator.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Test\\AssertingEnuemrator.cs",
+              "RelativeDocumentMoniker": "Test\\AssertingEnuemrator.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Test\\AssertingEnuemrator.cs",
+              "RelativeToolTip": "Test\\AssertingEnuemrator.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BoundVariableDeclaration.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundVariableDeclaration.cs",
+              "RelativeDocumentMoniker": "Coding_Language\\Binding\\BoundVariableDeclaration.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundVariableDeclaration.cs",
+              "RelativeToolTip": "Coding_Language\\Binding\\BoundVariableDeclaration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BoundVariableExpression.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundVariableExpression.cs",
+              "RelativeDocumentMoniker": "Coding_Language\\Binding\\BoundVariableExpression.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundVariableExpression.cs",
+              "RelativeToolTip": "Coding_Language\\Binding\\BoundVariableExpression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BoundUnaryExpression.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundUnaryExpression.cs",
+              "RelativeDocumentMoniker": "Coding_Language\\Binding\\BoundUnaryExpression.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundUnaryExpression.cs",
+              "RelativeToolTip": "Coding_Language\\Binding\\BoundUnaryExpression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BoundUnaryOperator.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundUnaryOperator.cs",
+              "RelativeDocumentMoniker": "Coding_Language\\Binding\\BoundUnaryOperator.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundUnaryOperator.cs",
+              "RelativeToolTip": "Coding_Language\\Binding\\BoundUnaryOperator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DiagnosticBag.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Error and evaluations\\DiagnosticBag.cs",
+              "RelativeDocumentMoniker": "Coding_Language\\Error and evaluations\\DiagnosticBag.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Error and evaluations\\DiagnosticBag.cs",
+              "RelativeToolTip": "Coding_Language\\Error and evaluations\\DiagnosticBag.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAlwCIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Binder.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\Binder.cs",
+              "RelativeDocumentMoniker": "Coding_Language\\Binding\\Binder.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\Binder.cs",
+              "RelativeToolTip": "Coding_Language\\Binding\\Binder.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAuwAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BlockStatementSyntax.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\BlockStatementSyntax.cs",
+              "RelativeDocumentMoniker": "Coding_Language\\Syntax\\BlockStatementSyntax.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\BlockStatementSyntax.cs",
+              "RelativeToolTip": "Coding_Language\\Syntax\\BlockStatementSyntax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BinaryExpressionSyntax.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\BinaryExpressionSyntax.cs",
+              "RelativeDocumentMoniker": "Coding_Language\\Syntax\\BinaryExpressionSyntax.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\BinaryExpressionSyntax.cs",
+              "RelativeToolTip": "Coding_Language\\Syntax\\BinaryExpressionSyntax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AssignmentExpressionSyntax.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\AssignmentExpressionSyntax.cs",
+              "RelativeDocumentMoniker": "Coding_Language\\Syntax\\AssignmentExpressionSyntax.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\AssignmentExpressionSyntax.cs",
+              "RelativeToolTip": "Coding_Language\\Syntax\\AssignmentExpressionSyntax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AverageMethodSyntax.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\AverageMethodSyntax.cs",
+              "RelativeDocumentMoniker": "Coding_Language\\Syntax\\AverageMethodSyntax.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\AverageMethodSyntax.cs",
+              "RelativeToolTip": "Coding_Language\\Syntax\\AverageMethodSyntax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BoundBinaryExpression.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundBinaryExpression.cs",
+              "RelativeDocumentMoniker": "Coding_Language\\Binding\\BoundBinaryExpression.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundBinaryExpression.cs",
+              "RelativeToolTip": "Coding_Language\\Binding\\BoundBinaryExpression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SyntaxTree.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\SyntaxTree.cs",
+              "RelativeDocumentMoniker": "Coding_Language\\Syntax\\SyntaxTree.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\SyntaxTree.cs",
+              "RelativeToolTip": "Coding_Language\\Syntax\\SyntaxTree.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SyntaxNode.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\SyntaxNode.cs",
+              "RelativeDocumentMoniker": "Coding_Language\\Syntax\\SyntaxNode.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\SyntaxNode.cs",
+              "RelativeToolTip": "Coding_Language\\Syntax\\SyntaxNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EvaluationResult.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\EvaluationResult.cs",
+              "RelativeDocumentMoniker": "Coding_Language\\Syntax\\EvaluationResult.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\EvaluationResult.cs",
+              "RelativeToolTip": "Coding_Language\\Syntax\\EvaluationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ElseClauseSyntax.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\ElseClauseSyntax.cs",
+              "RelativeDocumentMoniker": "Coding_Language\\Syntax\\ElseClauseSyntax.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\ElseClauseSyntax.cs",
+              "RelativeToolTip": "Coding_Language\\Syntax\\ElseClauseSyntax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CompilationUnitSyntax.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\CompilationUnitSyntax.cs",
+              "RelativeDocumentMoniker": "Coding_Language\\Syntax\\CompilationUnitSyntax.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\CompilationUnitSyntax.cs",
+              "RelativeToolTip": "Coding_Language\\Syntax\\CompilationUnitSyntax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Evaluator.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Error and evaluations\\Evaluator.cs",
+              "RelativeDocumentMoniker": "Coding_Language\\Error and evaluations\\Evaluator.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Error and evaluations\\Evaluator.cs",
+              "RelativeToolTip": "Coding_Language\\Error and evaluations\\Evaluator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BoundLiteralExpression.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundLiteralExpression.cs",
+              "RelativeDocumentMoniker": "Coding_Language\\Binding\\BoundLiteralExpression.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundLiteralExpression.cs",
+              "RelativeToolTip": "Coding_Language\\Binding\\BoundLiteralExpression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BoundForStatement.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundForStatement.cs",
+              "RelativeDocumentMoniker": "Coding_Language\\Binding\\BoundForStatement.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundForStatement.cs",
+              "RelativeToolTip": "Coding_Language\\Binding\\BoundForStatement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BoundFloatExpression.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundFloatExpression.cs",
+              "RelativeDocumentMoniker": "Coding_Language\\Binding\\BoundFloatExpression.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundFloatExpression.cs",
+              "RelativeToolTip": "Coding_Language\\Binding\\BoundFloatExpression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BoundBlockStatement.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundBlockStatement.cs",
+              "RelativeDocumentMoniker": "Coding_Language\\Binding\\BoundBlockStatement.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundBlockStatement.cs",
+              "RelativeToolTip": "Coding_Language\\Binding\\BoundBlockStatement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BoundBinaryOperator.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundBinaryOperator.cs",
+              "RelativeDocumentMoniker": "Coding_Language\\Binding\\BoundBinaryOperator.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundBinaryOperator.cs",
+              "RelativeToolTip": "Coding_Language\\Binding\\BoundBinaryOperator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BoundExpression.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundExpression.cs",
+              "RelativeDocumentMoniker": "Coding_Language\\Binding\\BoundExpression.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundExpression.cs",
+              "RelativeToolTip": "Coding_Language\\Binding\\BoundExpression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BoundGlobalScope.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundGlobalScope.cs",
+              "RelativeDocumentMoniker": "Coding_Language\\Binding\\BoundGlobalScope.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundGlobalScope.cs",
+              "RelativeToolTip": "Coding_Language\\Binding\\BoundGlobalScope.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BoundNode.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundNode.cs",
+              "RelativeDocumentMoniker": "Coding_Language\\Binding\\BoundNode.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundNode.cs",
+              "RelativeToolTip": "Coding_Language\\Binding\\BoundNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BoundStatement.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundStatement.cs",
+              "RelativeDocumentMoniker": "Coding_Language\\Binding\\BoundStatement.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundStatement.cs",
+              "RelativeToolTip": "Coding_Language\\Binding\\BoundStatement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "VariableDeclarationSyntax.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\VariableDeclarationSyntax.cs",
+              "RelativeDocumentMoniker": "Coding_Language\\Syntax\\VariableDeclarationSyntax.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\VariableDeclarationSyntax.cs",
+              "RelativeToolTip": "Coding_Language\\Syntax\\VariableDeclarationSyntax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "NameExpressionSyntax.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\NameExpressionSyntax.cs",
+              "RelativeDocumentMoniker": "Coding_Language\\Binding\\NameExpressionSyntax.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\NameExpressionSyntax.cs",
+              "RelativeToolTip": "Coding_Language\\Binding\\NameExpressionSyntax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "BoundScope.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundScope.cs",
+              "RelativeDocumentMoniker": "Coding_Language\\Binding\\BoundScope.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundScope.cs",
+              "RelativeToolTip": "Coding_Language\\Binding\\BoundScope.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UnaryExpressionSyntax.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\UnaryExpressionSyntax.cs",
+              "RelativeDocumentMoniker": "Coding_Language\\Syntax\\UnaryExpressionSyntax.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\UnaryExpressionSyntax.cs",
+              "RelativeToolTip": "Coding_Language\\Syntax\\UnaryExpressionSyntax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SourceTextTests.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Test\\SourceTextTests.cs",
+              "RelativeDocumentMoniker": "Test\\SourceTextTests.cs",
+              "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Test\\SourceTextTests.cs",
+              "RelativeToolTip": "Test\\SourceTextTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:49:32.721Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -824,8 +882,10 @@
               "RelativeDocumentMoniker": "Coding_Language\\Syntax\\WhileStatementSyntax.cs",
               "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\WhileStatementSyntax.cs",
               "RelativeToolTip": "Coding_Language\\Syntax\\WhileStatementSyntax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.736Z"
+              "WhenOpened": "2025-03-05T21:49:32.736Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -835,8 +895,10 @@
               "RelativeDocumentMoniker": "Coding_Language\\Syntax\\VariableSymbol.cs",
               "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\VariableSymbol.cs",
               "RelativeToolTip": "Coding_Language\\Syntax\\VariableSymbol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.74Z"
+              "WhenOpened": "2025-03-05T21:49:32.74Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -846,8 +908,10 @@
               "RelativeDocumentMoniker": "Coding_Language\\Syntax\\SyntaxFacts.cs",
               "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\SyntaxFacts.cs",
               "RelativeToolTip": "Coding_Language\\Syntax\\SyntaxFacts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.743Z"
+              "WhenOpened": "2025-03-05T21:49:32.743Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -857,8 +921,10 @@
               "RelativeDocumentMoniker": "Coding_Language\\Syntax\\StatementSyntax.cs",
               "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\StatementSyntax.cs",
               "RelativeToolTip": "Coding_Language\\Syntax\\StatementSyntax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.746Z"
+              "WhenOpened": "2025-03-05T21:49:32.746Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -868,8 +934,10 @@
               "RelativeDocumentMoniker": "Coding_Language\\Syntax\\LiteralExpressionSyntax.cs",
               "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\LiteralExpressionSyntax.cs",
               "RelativeToolTip": "Coding_Language\\Syntax\\LiteralExpressionSyntax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.749Z"
+              "WhenOpened": "2025-03-05T21:49:32.749Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -879,8 +947,10 @@
               "RelativeDocumentMoniker": "Coding_Language\\Syntax\\IfStatementSyntax.cs",
               "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\IfStatementSyntax.cs",
               "RelativeToolTip": "Coding_Language\\Syntax\\IfStatementSyntax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.752Z"
+              "WhenOpened": "2025-03-05T21:49:32.752Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -890,8 +960,10 @@
               "RelativeDocumentMoniker": "Coding_Language\\Syntax\\ForStatementSyntax.cs",
               "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\ForStatementSyntax.cs",
               "RelativeToolTip": "Coding_Language\\Syntax\\ForStatementSyntax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.754Z"
+              "WhenOpened": "2025-03-05T21:49:32.754Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -901,8 +973,10 @@
               "RelativeDocumentMoniker": "Coding_Language\\Syntax\\FloatExpressionSyntax.cs",
               "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\FloatExpressionSyntax.cs",
               "RelativeToolTip": "Coding_Language\\Syntax\\FloatExpressionSyntax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.758Z"
+              "WhenOpened": "2025-03-05T21:49:32.758Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -912,8 +986,10 @@
               "RelativeDocumentMoniker": "Coding_Language\\Syntax\\ExpressionSyntax.cs",
               "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\ExpressionSyntax.cs",
               "RelativeToolTip": "Coding_Language\\Syntax\\ExpressionSyntax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.76Z"
+              "WhenOpened": "2025-03-05T21:49:32.76Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -923,8 +999,10 @@
               "RelativeDocumentMoniker": "Coding_Language\\Syntax\\Compilation.cs",
               "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\Compilation.cs",
               "RelativeToolTip": "Coding_Language\\Syntax\\Compilation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.764Z"
+              "WhenOpened": "2025-03-05T21:49:32.764Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -934,8 +1012,10 @@
               "RelativeDocumentMoniker": "Coding_Language\\Syntax\\BracketExpressionSyntax.cs",
               "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Syntax\\BracketExpressionSyntax.cs",
               "RelativeToolTip": "Coding_Language\\Syntax\\BracketExpressionSyntax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.766Z"
+              "WhenOpened": "2025-03-05T21:49:32.766Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -945,8 +1025,10 @@
               "RelativeDocumentMoniker": "Coding_Language\\Binding\\BoundIfStatement.cs",
               "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundIfStatement.cs",
               "RelativeToolTip": "Coding_Language\\Binding\\BoundIfStatement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.769Z"
+              "WhenOpened": "2025-03-05T21:49:32.769Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -956,8 +1038,10 @@
               "RelativeDocumentMoniker": "Coding_Language\\Binding\\BoundAverageMethod.cs",
               "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundAverageMethod.cs",
               "RelativeToolTip": "Coding_Language\\Binding\\BoundAverageMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.772Z"
+              "WhenOpened": "2025-03-05T21:49:32.772Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -967,8 +1051,10 @@
               "RelativeDocumentMoniker": "Coding_Language\\Binding\\BoundAssignmentExpression.cs",
               "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Binding\\BoundAssignmentExpression.cs",
               "RelativeToolTip": "Coding_Language\\Binding\\BoundAssignmentExpression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:49:32.774Z"
+              "WhenOpened": "2025-03-05T21:49:32.774Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -987,6 +1073,7 @@
               "RelativeDocumentMoniker": "Coding_Language\\Coding_Language.csproj",
               "ToolTip": "C:\\Users\\\u0027-\u0027\\OneDrive\\EPQ\\Code\\Coding_Language\\Coding_Language\\Coding_Language.csproj",
               "RelativeToolTip": "Coding_Language\\Coding_Language.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-03-05T21:49:32.987Z",
               "EditorCaption": ""

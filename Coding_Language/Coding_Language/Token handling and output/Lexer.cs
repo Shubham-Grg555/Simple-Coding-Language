@@ -11,43 +11,62 @@ namespace Coding_Language.Syntax
 {
     internal sealed class Lexer
     {
-        private SourceText _text;
-        private readonly DiagnosticBag _diagnostics = new DiagnosticBag();
+        private SourceText text;
+        private readonly DiagnosticBag diagnostics = new DiagnosticBag();
 
-        private int _position;
-        private int _start;
-        private TokenType _type;
-        private object _value;
+        private int position;
+        private int start;
+        private TokenType type;
+        private object value;
 
         public Lexer(SourceText text)
         {
-            // taking the input into the lexer and assiging it to the private _input variable
-            // This is so I can use the string input thorught the class
-            _text = text;
-            _position = 0;
+            this.text = text;
+            position = 0;
         }
 
-        public DiagnosticBag Diagnostics => _diagnostics;
+        public DiagnosticBag Diagnostics => diagnostics;
 
-        /// <summary>
-        /// Method to update character
-        /// </summary>
-        /// <returns>< \0 if _position is larger than input></ else returns current character>
         public char Peek(int offset)
         {
-            var index = _position + offset;
-            // checks if the index is larger than input length
-            if (index >= _text.Length)
+            var index = position + offset;
+
+            if (index >= text.Length)
             {
                 return '\0';
             }
             else
             {
-                return _text[index];
+                return text[index];
             }
         }
 
-        private char _currentCharacter => Peek(0);
+        private char currentCharacter => Peek(0);
+
+        private Dictionary<string, TokenType> mapInputToToken = new Dictionary<string, TokenType>
+        {
+            {"+", TokenType.Add},
+            {"-", TokenType.Subtract},
+            {"*", TokenType.Multiply},
+            {"/", TokenType.Divide},
+            {"(", TokenType.LBracket},
+            {")", TokenType.RBracket},
+            {"{", TokenType.LBrace},
+            {"}", TokenType.RBrace},
+            {"%", TokenType.Modulo},
+            {"^", TokenType.Power},
+            {",", TokenType.Comma},
+            {"=", TokenType.Equal},
+            {"<", TokenType.LessThan},
+            {">", TokenType.GreaterThan},
+            {"!", TokenType.NOT},
+            {"==", TokenType.TrueEquals},
+            {"<=", TokenType.LessThanOrEquals},
+            {">=", TokenType.GreaterThanOrEquals},
+            {"!=", TokenType.NOTEquals},
+            {"&&", TokenType.LogicalAND},
+            {"||", TokenType.LogicalOR}
+        };
 
         /// <summary>
         /// Function that checks what kind of character the current character is to get the right token
@@ -58,219 +77,145 @@ namespace Coding_Language.Syntax
         public Token NextTokens()
         {
 
-            _start = _position;
-            // makes the token automatical bad, as I will asign a value if it is not
-            _type = TokenType.Error;
-            _value = null;
+            start = position;
+            // Assign error token to throw error, or assigned proper value and work as expected
+            type = TokenType.Error;
+            value = null;
 
-            // checks the character and assigns the correct token
-            // also increments position by one, unless it is the end of file token
-            switch (_currentCharacter)
+            switch (currentCharacter)
             {
+                // special characters that require unique logic are in the switch case
                 case '\0':
-                    _type = TokenType.EndOfFile;
+                    type = TokenType.EndOfFile;
                     break;
-                case '+':
-                    _type = TokenType.Add;
-                    _position++;
-                    break;
-                case '-':
-                    _type = TokenType.Subtract;
-                    _position++;
-                    break;
-                case '*':
-                    _type = TokenType.Multiply;
-                    _position++;
-                    break;
-                case '/':
-                    _type = TokenType.Divide;
-                    _position++;
-                    break;
-                case '(':
-                    _type = TokenType.LBracket;
-                    _position++;
-                    break;
-                case ')':
-                    _type = TokenType.RBracket;
-                    _position++;
-                    break;
-                case '{':
-                    _type = TokenType.LBrace;
-                    _position++;
-                    break;
-                case '}':
-                    _type = TokenType.RBrace;
-                    _position++;
-                    break;
-                case '%':
-                    _type = TokenType.Modulo;
-                    _position++;
-                    break;
-                case '^':
-                    _type = TokenType.Power;
-                    _position++;
-                    break;
-                case ',':
-                    _type = TokenType.Comma;
-                    _position++;
-                    break;
-                // these characters can be one or two characters in length
-                // so if statement used to get the right character, with the correct values being changed
                 case '=':
-                    _position++;
-                    if (_currentCharacter == '=')
-                    {
-                        _type = TokenType.TrueEquals;
-                        _position++;
-                        break;
-                    }
-                    else
-                    {
-                        _type = TokenType.Equal;
-                        break;
-                    }
                 case '<':
-                    _position++;
-                    if (_currentCharacter != '=')
-                    {
-                        _type = TokenType.LessThan;
-                    }
-                    else
-                    {
-                        _type = TokenType.LessThanOrEquals;
-                        _position++;
-                    }
-                    break;
                 case '>':
-                    _position++;
-                    if (_currentCharacter != '=')
-                    {
-                        _type = TokenType.GreaterThan;
-                    }
-                    else
-                    {
-                        _type = TokenType.GreaterThanOrEquals;
-                        _position++;
-                    }
-                    break;
                 case '!':
-                    _position++;
-                    if (_currentCharacter == '=')
+                    string checkSecondChar = currentCharacter.ToString();
+                    position++;
+                    // checks an ='s follows, because it will the change the logic and token type
+                    if (currentCharacter != '=')
                     {
-                        _type = TokenType.NOTEquals;
-                        _position++;
+                        Console.WriteLine(currentCharacter);
+                        type = mapInputToToken[checkSecondChar];
                         break;
                     }
                     else
                     {
-                        _type = TokenType.NOT;
+                        checkSecondChar += currentCharacter.ToString();
+                        type = mapInputToToken[checkSecondChar];
+                        position++;
                         break;
                     }
-                // for characters like these, where only one character is an error
-                // it runs a report invalid character to create that error
+                // No valid tokens for single characters, only valid tokens for two duplicate characters
                 case '&':
-                    _position++;
-                    if (_currentCharacter == '&')
+                    position++;
+                    if (currentCharacter == '&')
                     {
-                        _type = TokenType.LogicalAND;
-                        _position++;
+                        type = TokenType.LogicalAND;
+                        position++;
                         break;
                     }
-                    _diagnostics.ReportInvalidCharacter(_position, _currentCharacter);
+                    diagnostics.ReportInvalidCharacter(position, currentCharacter);
                     break;
 
                 case '|':
-                    _position++;
-                    if (_currentCharacter == '|')
+                    position++;
+                    if (currentCharacter == '|')
                     {
-                        _type = (TokenType.LogicalOR);
-                        _position++;
+                        type = (TokenType.LogicalOR);
+                        position++;
                         break;
                     }
-                    _diagnostics.ReportInvalidCharacter(_position, _currentCharacter);
+                    diagnostics.ReportInvalidCharacter(position, currentCharacter);
                     break;
-                    // runs if none of the other tokens were made
                 default:
-                    if (char.IsWhiteSpace(_currentCharacter))
+                    if (char.IsWhiteSpace(currentCharacter))
                     {
-                        // loops through the input until the character is no longer a whitespace
                         ReadWhiteSpace();
                     }
-                    else if (char.IsDigit(_currentCharacter))
+                    else if (char.IsDigit(currentCharacter))
                     {
                         ReadNumberOrFloat();
                     }
-                    else if (char.IsLetter(_currentCharacter))
+                    else if (char.IsLetter(currentCharacter))
                     {
                         ReadText();
                     }
+                    // maps regular tokens that don't need special logic
+                    else if (mapInputToToken.ContainsKey(currentCharacter.ToString()))
+                    {
+                        type = mapInputToToken[currentCharacter.ToString()];
+                        position++;
+                    }
                     else
                     {
-                        _diagnostics.ReportInvalidCharacter(_position, _currentCharacter);
-                        _position++;
+                        diagnostics.ReportInvalidCharacter(position, currentCharacter);
+                        position++;
                     }
                     break;
             }
-            var length = _position - _start;
-            var text = SyntaxFacts.GetText(_type);
+            var length = position - start;
+            var text = SyntaxFacts.GetText(type);
             if (text == null)       // the text is dynamic
             {
-                text = _text.ToString(_start, length);
+                text = this.text.ToString(start, length);
             }
-            return new Token(_type, text, _start, _value);
+            return new Token(type, text, start, value);
         }
+
+
 
         private void ReadWhiteSpace()
         {
-            // gets all the white spaces and increments position accordingly
-            while (char.IsWhiteSpace(_currentCharacter))
+            while (char.IsWhiteSpace(currentCharacter))
             {
-                _position++;
+                position++;
             }
-            _type = TokenType.WhiteSpace;
+            type = TokenType.WhiteSpace;
         }
 
         private void ReadNumberOrFloat()
         {
-            // loops through the input until the character is no longer a digit or .
-            while (char.IsDigit(_currentCharacter) || _currentCharacter == '.')
+            while (char.IsDigit(currentCharacter) || currentCharacter == '.')
             {
-                _position++;
+                position++;
             }
-            var length = _position - _start;                    // finds the length of the number
-            var text = _text.ToString(_start, length);        // creates a string value of the number
+            var length = position - start;
+            var text = this.text.ToString(start, length);
 
-            if (text.Contains('.')) // checks if there is a decimal
+            // Handles logic for decimal values, as requires a different token from int
+            if (text.Contains('.'))
             {
-                // checks if it is a valid float
                 if (!float.TryParse(text, out var floatValue))
                 {
-                    _diagnostics.ReportInvalidNumber(new TextSpan(_start, length), text, typeof(float));
+                    diagnostics.ReportInvalidNumber(new TextSpan(start, length), text, typeof(float));
                 }
-                _value = floatValue;
-                _type = TokenType.Float;
+                value = floatValue;
+                type = TokenType.Float;
             }
+            // Handles int logic
             else
             {
-                // checks if it is a valid int
                 if (!int.TryParse(text, out var intValue))
                 {
-                    _diagnostics.ReportInvalidNumber(new TextSpan(_start, length), text, typeof(int));
+                    diagnostics.ReportInvalidNumber(new TextSpan(start, length), text, typeof(int));
                 }
-                _value = intValue;
-                _type = TokenType.Int;
+                value = intValue;
+                type = TokenType.Int;
             }
         }
 
         private void ReadText()
         {
-            while (char.IsLetter(_currentCharacter))
+            while (char.IsLetter(currentCharacter))
             {
-                _position++;
+                position++;
             }
-            var length = _position - _start;                    // finds the length of the word
-            var text = _text.ToString(_start, length);        // creates the value of the word
-            _type = SyntaxFacts.GetKeyWordType(text);       // used to create the key word token
+            var length = position - start;
+            var text = this.text.ToString(start, length);
+            type = SyntaxFacts.GetKeyWordType(text);
         }
     }
 }

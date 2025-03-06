@@ -6131,9 +6131,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\'-'\\OneDrive\\EPQ\\Code\\Coding_Language\\Test\\Test.csproj",
-      "projectName": "Test",
-      "projectPath": "C:\\Users\\'-'\\OneDrive\\EPQ\\Code\\Coding_Language\\Test\\Test.csproj",
+      "projectUniqueName": "C:\\Users\\'-'\\OneDrive\\EPQ\\Code\\Coding_Language\\Test\\Tests.csproj",
+      "projectName": "Tests",
+      "projectPath": "C:\\Users\\'-'\\OneDrive\\EPQ\\Code\\Coding_Language\\Test\\Tests.csproj",
       "packagesPath": "C:\\Users\\'-'\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\'-'\\OneDrive\\EPQ\\Code\\Coding_Language\\Test\\obj\\",
       "projectStyle": "PackageReference",

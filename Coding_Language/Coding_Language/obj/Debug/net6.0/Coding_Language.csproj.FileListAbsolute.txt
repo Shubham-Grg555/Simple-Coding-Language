@@ -42,3 +42,4 @@ C:\Users\'-'\OneDrive\EPQ\Code\Coding_Language\Coding_Language\obj\Debug\net6.0\
 C:\Users\'-'\OneDrive\EPQ\Code\Coding_Language\Coding_Language\obj\Debug\net6.0\Coding_Language.pdb
 C:\Users\'-'\OneDrive\EPQ\Code\Coding_Language\Coding_Language\obj\Debug\net6.0\Coding_Language.genruntimeconfig.cache
 C:\Users\'-'\OneDrive\EPQ\Code\Coding_Language\Coding_Language\obj\Debug\net6.0\ref\Coding_Language.dll
+C:\Users\'-'\OneDrive\EPQ\Code\Coding_Language\Coding_Language\obj\Debug\net6.0\Coding_Language.sourcelink.json
