@@ -73,7 +73,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-This code uses projects from: https://github.com/terrajobst/minsk/tree/master
+This code uses projects from (Up to episode 7): https://github.com/terrajobst/minsk/tree/master
 
 It is also licensed to be used:
 The MIT License (MIT)
