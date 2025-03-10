@@ -7,18 +7,18 @@ student, where you would be able to complete any of the GCSE coding questions us
 
 It includes features such as:
 
-**High-level abstraction**
+### **High-level abstraction**
 Designed to be intuitive and easy to learn for new developers
 
-**Multiple forms of syntax**
+### **Multiple forms of syntax**
 Two forms of symbol syntax, where one is an intuitive syntax for new developers, but you could also the common syntax in other
 languages that are less obvious e.g you can use the bit wise logical and by just writing the word and, or you can use the &&
 symbols to get the same effect.
 
-**Interpreter translation and error reporting**
+### **Interpreter translation and error reporting**
 For an easier debugging experience that has a comprehensive error message that shows the developer where and what the error is.
 
-**Viewable syntax tree**
+### **Viewable syntax tree**
 Ability to see the syntax tree when executing lines of code, to see how the expressions are handled and linked together by the
 Simple-Coding-Language
 
@@ -29,10 +29,11 @@ Goal of having all necessary functionalities to be able to the coding aspect of 
 - Variable assignments (DONE)
 - If statements (DONE)
 - For loops and while loops (DONE)
-- Pre-built functions (HALF DONE, definitely could use better code / at bare minimum some minor fixes for naming consistencies)
+- Pre-built functions for arithmetics e.g finding average between some numbers (HALF DONE, definitely could use better code / at bare minimum some minor fixes for naming consistencies)
 - Functions (NOT DONE)
 - Arrays / lists (NOT DONE)
-- Use string and string manipulation (NOT DONE)
+- Pre-built functions for the arrays / list e.g length etc
+- Use string and pre-built functions for string manipulation e.g capialise the string (NOT DONE)
 - Basic file handling (NOT DONE)
 
 
